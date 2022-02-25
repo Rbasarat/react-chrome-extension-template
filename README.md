@@ -1,1 +1,0 @@
-# react-chrome-extension-template
